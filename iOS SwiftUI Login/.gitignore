@@ -1,0 +1,37 @@
+
+DerivedData/
+*.xcworkspace
+xcuserdata/
+*.xccheckout
+*.xcscmblueprint
+*.xcuserstate
+
+
+.DS_Store
+*.swp
+*.lock
+*.plist
+*.pbxuser
+*.mode1v3
+*.mode2v3
+
+
+build/
+*.ipa
+*.app
+
+# Podfiles
+Pods/
+Podfile.lock
+
+# Logs
+*.log
+
+# Caché
+*.xcuserdatad
+*.xcuserstate
+*.DS_Store
+
+
+/.build/
+.swiftpm/

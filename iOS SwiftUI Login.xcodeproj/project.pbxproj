@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4938FE052DDADFF200A9E428 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 4938FE042DDADFE700A9E428 /* .gitignore */; };
 		495EE5302DDAD116007A2861 /* Auth0 in Frameworks */ = {isa = PBXBuildFile; productRef = 495EE52F2DDAD116007A2861 /* Auth0 */; };
 		495EE5342DDAD248007A2861 /* Auth0.plist in Resources */ = {isa = PBXBuildFile; fileRef = 495EE5332DDAD248007A2861 /* Auth0.plist */; };
 		D4F66D21288F28A7009F7A80 /* iOS_SwiftUI_LoginApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4F66D20288F28A7009F7A80 /* iOS_SwiftUI_LoginApp.swift */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		4938FE042DDADFE700A9E428 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 		495EE5332DDAD248007A2861 /* Auth0.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Auth0.plist; sourceTree = "<group>"; };
 		D4F66D1D288F28A7009F7A80 /* iOS SwiftUI Login.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "iOS SwiftUI Login.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		D4F66D20288F28A7009F7A80 /* iOS_SwiftUI_LoginApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = iOS_SwiftUI_LoginApp.swift; sourceTree = "<group>"; };
@@ -57,6 +59,7 @@
 		D4F66D1F288F28A7009F7A80 /* iOS SwiftUI Login */ = {
 			isa = PBXGroup;
 			children = (
+				4938FE042DDADFE700A9E428 /* .gitignore */,
 				D4F66D20288F28A7009F7A80 /* iOS_SwiftUI_LoginApp.swift */,
 				D4F66D22288F28A7009F7A80 /* ContentView.swift */,
 				D4F66D35289054F0009F7A80 /* Profile.swift */,
@@ -136,6 +139,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4938FE052DDADFF200A9E428 /* .gitignore in Resources */,
 				D4F66D28288F28AC009F7A80 /* Preview Assets.xcassets in Resources */,
 				495EE5342DDAD248007A2861 /* Auth0.plist in Resources */,
 				D4F66D25288F28AC009F7A80 /* Assets.xcassets in Resources */,
